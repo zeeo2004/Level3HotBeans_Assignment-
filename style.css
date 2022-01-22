@@ -360,7 +360,7 @@ h3{
   margin-left: 360px;
    display: flex;
    box-sizing: border-box;
-  
+   border-radius: 40px;
    
 }
 .placeHol textarea {
@@ -372,6 +372,7 @@ h3{
    align-items: center;
  margin-left: 360px;
   box-sizing: border-box;
+    border-radius: 40px; 
 }
 
 @media (max-width:600px){
@@ -384,6 +385,7 @@ h3{
    align-items: center;
  margin-left: 60px;
   box-sizing: border-box; 
+    border-radius: 40px;
     }
     .placeHol input{
     width: 60%;
@@ -394,7 +396,7 @@ h3{
   margin-left: 60px;
    display: flex;
    box-sizing: border-box;
-  
+   border-radius: 40px;
    
 }
 .about-col h1{
